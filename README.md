@@ -1,2 +1,2 @@
-# /Online-Quiz-Codesoft
-//
+# Online-Quiz-Codesoft
+the questions are attended here!!
